@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "Contavid · Finanzas seguras",
+  "short_name": "Contavid",
+  "description": "Organiza tus ingresos, pagos, recordatorios y ahorros.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f8fb",
+  "theme_color": "#07142e",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/contavid-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
